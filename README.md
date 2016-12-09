@@ -2,7 +2,13 @@
 
 # Screenshot
 
+# 1. Blured without Spacing
+
 ![Mangling CSS variables with JS](http://imgur.com/9ykPP3y.png)
+
+# 2. Spaced without Bluring
+
+![Mangling CSS variables with JS](http://imgur.com/vJX1cyS.png)
 
 ## License
 
