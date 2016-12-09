@@ -2,7 +2,7 @@
 
 # Screenshot
 
-![Mangling CSS variables with JS]()
+![Mangling CSS variables with JS](http://imgur.com/9ykPP3y.png)
 
 ## License
 
